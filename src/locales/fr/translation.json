@@ -1,0 +1,31 @@
+{
+  "home": "Accueil",
+  "stats": "Statistiques",
+  "support": "Nous soutenir",
+  "login": "Connexion",
+
+  "title": "Banque de sang algérienne",
+
+  "heroDesc": "Sauvez des vies en donnant du sang et rejoignez notre mission humanitaire.",
+
+  "search": "Rechercher un donneur",
+
+  "bloodType": "Groupe sanguin",
+  "state": "Wilaya",
+  "city": "Ville",
+
+  "searchBtn": "Rechercher",
+    "links": "Liens",
+  "contact": "Contactez-nous",
+  "who": "Qui sommes-nous",
+  "privacy": "Confidentialité",
+  "donationRules": "Conditions du don",
+  "donationBenefits": "Avantages du don",
+
+  "about": "À propos",
+
+  "aboutDesc": "Nous sommes des jeunes algériens ambitieux cherchant à aider ceux qui ont besoin de sang.",
+    "statistics": "Statistiques",
+  "bloodStats": "Donneurs par groupe sanguin",
+  "totalDonors": "Total des donneurs"
+}
